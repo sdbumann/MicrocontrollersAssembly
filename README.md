@@ -6,7 +6,7 @@
 ## Table of Contents
  
 * [About the Project](#about-the-project)
-* [Important Modules](#Important Modules)
+* [Important Modules](#important-modules)
 * [Contact](#contact)
  
 <!-- ABOUT THE PROJECT -->
@@ -14,7 +14,7 @@
 The project uses assembly on a STK-300 AVR Starter Kit to design a Music-Box that can play and save music while having a representation of the played notes as different colours on an LCD display.
  
  
-<!-- Important Modules -->
+<!-- IMPORTANT MODULES -->
 ## Important Modules
 | **Name**              | **Arguments/Input**          | **Return/Output**       | **Description**                                                                                 |
 |-----------------------|------------------------------|-------------------------|-------------------------------------------------------------------------------------------------|
