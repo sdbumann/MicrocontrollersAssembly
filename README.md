@@ -11,7 +11,7 @@
  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The project uses assembly on a STK-300 AVR Starter Kit to design a Music-Box that can play and save music while having a representation of the played notes as different colours on an LCD display.
+The project uses Assembly on a STK-300 AVR Starter Kit to design a Music-Box that can play and save music while having a representation of the played notes as different colours on an LCD display.
  
  
 <!-- IMPORTANT MODULES -->
